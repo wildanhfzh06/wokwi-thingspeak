@@ -1,0 +1,54 @@
+/* Mengatur ukuran font default */
+body {
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Membuat warna background dan padding di header */
+  header {
+    background-color: #333;
+    padding: 10px;
+  }
+  
+  /* Membuat warna teks dan ukuran font pada judul */
+  h1 {
+    color: white;
+    font-size: 36px;
+  }
+  
+  /* Membuat warna teks pada link dan menghapus underline default */
+  a {
+    color: blue;
+    text-decoration: none;
+  }
+  
+  /* Mengatur warna background dan margin pada bagian utama content */
+  main {
+    background-color: #f2f2f2;
+    margin: 10px;
+    padding: 10px;
+  }
+  
+  /* Mengatur layout kolom 2 dan ukuran font pada aside */
+  aside {
+    float: right;
+    width: 30%;
+    font-size: 14px;
+  }
+  
+  /* Mengatur layout kolom 1 dan ukuran font pada artikel */
+  article {
+    float: left;
+    width: 65%;
+    font-size: 16px;
+  }
+  
+  /* Mengatur tampilan footer */
+  footer {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 14px;
+  }
+  
